@@ -1,0 +1,2 @@
+rootProject.name = "ArchitectureSeries_RoomDataBaseTutorial"
+include ':app'
